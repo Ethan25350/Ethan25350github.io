@@ -37,10 +37,9 @@ body {
 .linkBox {
   background-color: #9966cc;
   border: solid;
-  margin: 20px;
+  margin: 18px;
   box-shadow: 5px 10px #232b2b;
   display: flex;
-  float: right;
   padding: 10px 20px;
 }
 
