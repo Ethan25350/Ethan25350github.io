@@ -19,10 +19,8 @@ body {
   border: 8px solid #000000;
   color: #00A36C;
   box-shadow: 5px 10px #232b2b;
-  display: flex;
   justify-content: center;
-  padding: 15px 30px;
-  min-width: 50%;
+  padding: 15px 10px;
 }
 
 #menuBox {
@@ -51,6 +49,8 @@ body {
   display: inline-block;
   padding: inherit;
   justify-content: center;
+  max-width: 1500px;
+  text-align: center;
 }
 
 a {
